@@ -22,7 +22,7 @@ The scraper:
 
 ### 🎯 Objective
 
-> **Use Selenium with Python to scrape real job listings from a live job portal and store the extracted information in a structured CSV dataset.**
+> *Use Selenium with Python to scrape real job listings from a live job portal and store the extracted information in a structured CSV dataset.*
 
 ---
 
